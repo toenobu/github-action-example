@@ -1,3 +1,4 @@
 # infra-example
 
-You can do anything except discarding the repo
+You can do anything except discarding the repo.
+Try anythings.
