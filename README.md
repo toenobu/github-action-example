@@ -1,4 +1,4 @@
 # infra-example
 
 You can do anything except discarding the repo.
-Try anythings.
+Try anything else.
