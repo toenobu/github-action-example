@@ -1,2 +1,7 @@
 github-jira 連携テスト
 このファイルは使用後に削除するべし
+
+https://linkers.atlassian.net/browse/INFRA-1407
+
+INFRA-1407
+
